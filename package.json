@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "start": "node javascript/code-challenge/challenge-09/index.js"
   },
   "repository": {
     "type": "git",
