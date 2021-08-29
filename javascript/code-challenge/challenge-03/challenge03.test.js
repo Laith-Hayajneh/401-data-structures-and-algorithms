@@ -29,7 +29,7 @@ function binarySearch(arr, num) {
 
 }
 
-//for test :
+//for test ::
 binarySearch([2, 4, 6, -8], 4);
 
 
