@@ -36,7 +36,7 @@ trace the algorithm by stepping through the process with the provided sample arr
        style="float: left; margin-right: 10px;" />
 
 ## Test 
-<img src="./cc20test.png"
+<img src="./cc26t.png"
        alt="code-challenge-20 whiteBoard"
        style="float: left; margin-right: 10px;" />       
 
